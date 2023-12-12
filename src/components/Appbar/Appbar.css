@@ -1,0 +1,44 @@
+.appbar{
+    background-color: #637E76;
+    color: #F8DFD4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 3rem;
+    position: relative;
+    
+}
+
+.logo-container {
+    align-items: center;
+    border: 2px solid #000;
+    display: flex;
+    height: 92%;
+    justify-content: center;
+    position: absolute;
+    right: 42rem;
+    width: 50%;
+}
+
+.products{
+    align-items: center;
+    border: 2px solid #000;
+    display: flex;
+    height: 92%;
+    justify-content: center;
+    position: relative;
+    right: 30rem;
+    
+}
+
+.avatar__container{
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: 44rem;
+}
